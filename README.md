@@ -26,7 +26,7 @@ impresa ha la sua installazione separata: i dati di un'impresa non stanno mai ne
 
 ## Come ci ho lavorato
 
-Specifiche scritte prima del codice, con i casi limite. Il codice lo genera Claude Code, un compito alla volta; io lo
+Specifiche scritte prima del codice, con i casi limite. Il codice lo genera l'AI, un compito alla volta; io lo
 dirigo, lo controllo con i test e lo faccio rivedere da un secondo agente prima del collaudo.
 
 ## Stato
